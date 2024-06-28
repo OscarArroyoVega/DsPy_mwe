@@ -58,3 +58,6 @@ assertion.log
 .mypy_cache
 
 .history
+*.history
+.venv
+*.venv
