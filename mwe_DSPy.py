@@ -22,7 +22,7 @@ class Model_Unify(dsp.Unify):
         # Implement the method here
         print("Called with", args, kwargs)
         return "Result"
-model = Model_Unify(endpoint='claude-3-haiku@antrophic', max_tokens=250, api_key="VYQEXf6CopY2YZahcwUWnMtn61Pnx+rQuRrsEHWAhcw=")
+model = Model_Unify(endpoint='claude-3-haiku@antrophic', max_tokens=250, api_key="YOUR_API_KEY")
 
 dspy.settings.configure(lm=model)
 
