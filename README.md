@@ -1,14 +1,3 @@
-The existing `README.md` file contains a brief description:
-
-```
-This is a minimum working example to test the integration of unify client into dspy
-```
-
-Since the endpoint to list repository contents is not supported, I'll proceed with drafting a comprehensive README based on the available information.
-
-### Draft README
-
-```markdown
 # dspy_mwe
 
 This is a minimum working example (MWE) created to test and demonstrate the integration of the unify client into `dspy`.
