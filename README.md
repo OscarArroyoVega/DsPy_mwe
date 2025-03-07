@@ -62,4 +62,3 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-Would you like me to update the `README.md` file in the repository with this content?
