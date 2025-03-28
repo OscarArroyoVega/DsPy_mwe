@@ -1,4 +1,4 @@
-# dspy_mwe
+# DsPy_mwe
 
 This is a minimum working example (MWE) created to test and demonstrate the integration of the unify client into `dspy`.
 
